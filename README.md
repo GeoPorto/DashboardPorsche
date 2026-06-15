@@ -1,4 +1,4 @@
-# Porsche Sales BI Dashboard
+# Porsche Sales Dashboard
 
 Dashboard interativo em HTML para análise de vendas de veículos Porsche. O projeto lê uma base Excel sanitizada, transforma os dados em JSON embutido e renderiza os indicadores e gráficos diretamente no navegador usando `<canvas>`.
 
@@ -59,4 +59,7 @@ python work/build_dashboard.py
 ```
 
 Se o arquivo Excel estiver em outro caminho, ajuste a variável `INPUT_XLSX` no início de `work/build_dashboard.py`.
+
+## Visual do dashboard
+![Dashboard](./images/image.png.png)
 
