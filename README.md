@@ -61,5 +61,5 @@ python work/build_dashboard.py
 Se o arquivo Excel estiver em outro caminho, ajuste a variável `INPUT_XLSX` no início de `work/build_dashboard.py`.
 
 ## Visual do dashboard
-![Dashboard](./images/image.png.png)
+![Dashboard](./images/image.png)
 
